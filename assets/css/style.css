@@ -1,0 +1,18 @@
+#addtext , #addbtn{
+    width: 100px;
+    height: 42px;
+    background-color: #26b069;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+}
+input{
+    width: 160px;
+    height: 35px;
+    padding: 7px;
+    border: 1px solid rgb(144, 77, 150);
+}
+input:focus {
+    outline: none;
+    border: 1px solid rgb(137, 40, 58);
+}
